@@ -1,0 +1,82 @@
+# ==============================
+# 🔥 Node.js / JavaScript
+# ==============================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# ==============================
+# ⚡ Vite / React / Frontend
+# ==============================
+dist/
+build/
+.vite/
+.cache/
+coverage/
+
+# ==============================
+# 🔐 Environment Variables
+# ==============================
+.env
+.env.*
+!.env.example
+
+# ==============================
+# ☁️ Logs
+# ==============================
+logs
+*.log
+
+# ==============================
+# 🖥️ OS Files
+# ==============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# 🧠 IDE / Editor
+# ==============================
+.vscode/
+.idea/
+*.iml
+
+# ==============================
+# 🧪 Testing
+# ==============================
+coverage/
+.nyc_output/
+
+# ==============================
+# 🚀 Build Output
+# ==============================
+out/
+target/
+*.class
+
+# ==============================
+# 🐍 Python (if ever used)
+# ==============================
+__pycache__/
+*.pyc
+
+# ==============================
+# 🐦 Flutter (if experimenting)
+# ==============================
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+
+# ==============================
+# 🔒 Misc
+# ==============================
+*.swp
+*.swo
+*.tmp
